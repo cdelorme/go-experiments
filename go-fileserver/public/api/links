@@ -1,0 +1,6 @@
+[
+	{"name": "Home", "link": "/"},
+	{"name": "Customers", "link": "/api/customers"},
+	{"name": "Environments", "link": "/api/environments"},
+	{"name": "Navigation", "link": "/api/links"}
+]

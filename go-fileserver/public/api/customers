@@ -1,0 +1,10 @@
+[
+	{
+		"id": "abc",
+		"name": "Customer A"
+	},
+	{
+		"id": "123",
+		"name": "Customer B"
+	}
+]
