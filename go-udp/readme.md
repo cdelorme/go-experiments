@@ -1,5 +1,5 @@
 
-# stream
+# udp
 
 This is a rudimentary UDP client-server demonstration, which passes "chat" messages to a server and distributes them to all clients.
 
