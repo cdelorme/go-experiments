@@ -10,7 +10,7 @@ func main() {
 	router := httprouter.New()
 
 	router.Handle(http.MethodOptions, "/", DefaultOptions)
-	router.Handle(http.MethodOptions, "/api*all", CORSOptions)
+	router.Handle(http.MethodOptions, "/api/*all", CORSOptions)
 
 	http.ListenAndServe(":3000", router)
 }
